@@ -1,0 +1,111 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\Debug\eMAZEing_run.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>eMAZEing_run.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>eMAZEing_run.map</FILE>
+  <FILE>eMAZEing_run.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <PRESSstart><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>16</LINE></PRESSstart>
+  <Timer1OverflowInterrupt><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>632</LINE></Timer1OverflowInterrupt>
+  <Timer0OverflowInterrupt><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>772</LINE></Timer0OverflowInterrupt>
+  <loop><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>35</LINE></loop>
+  <init><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>50</LINE></init>
+  <start><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>104</LINE></start>
+  <rowon><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>75</LINE></rowon>
+  <rowoff><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>79</LINE></rowoff>
+  <wait1><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>89</LINE></wait1>
+  <wait2><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>90</LINE></wait2>
+  <display><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>117</LINE></display>
+  <clearT><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>113</LINE></clearT>
+  <COUNTloop><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>137</LINE></COUNTloop>
+  <NEWcounter><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>134</LINE></NEWcounter>
+  <READloop><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>154</LINE></READloop>
+  <blocksloop><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>168</LINE></blocksloop>
+  <begin><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>214</LINE></begin>
+  <CharTable><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>998</LINE></CharTable>
+  <show><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>177</LINE></show>
+  <notshow><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>173</LINE></notshow>
+  <block><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>194</LINE></block>
+  <nc><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>190</LINE></nc>
+  <turnoff><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>199</LINE></turnoff>
+  <WriteMazeToScreenbuffer><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>272</LINE></WriteMazeToScreenbuffer>
+  <WriteMazeToScreenbuffer2><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>284</LINE></WriteMazeToScreenbuffer2>
+  <WriteMazeToScreenbuffer3><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>297</LINE></WriteMazeToScreenbuffer3>
+  <WriteMazeToScreenbuffer4><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>310</LINE></WriteMazeToScreenbuffer4>
+  <WriteMazeToScreenbuffer5><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>320</LINE></WriteMazeToScreenbuffer5>
+  <WriteMazeToScreenbuffer6><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>333</LINE></WriteMazeToScreenbuffer6>
+  <WriteMazeToScreenbuffer7><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>349</LINE></WriteMazeToScreenbuffer7>
+  <WriteMazeToScreenbuffer8><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>359</LINE></WriteMazeToScreenbuffer8>
+  <WriteMazeToScreenbuffer9><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>369</LINE></WriteMazeToScreenbuffer9>
+  <WriteByteToScreenbuffer><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>381</LINE></WriteByteToScreenbuffer>
+  <WriteObstacleToScreenbuffer><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>392</LINE></WriteObstacleToScreenbuffer>
+  <generate><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>404</LINE></generate>
+  <LSFR270><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>409</LINE></LSFR270>
+  <food><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>421</LINE></food>
+  <InitKeyboard><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>436</LINE></InitKeyboard>
+  <Main><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>447</LINE></Main>
+  <restart><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>461</LINE></restart>
+  <right><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>490</LINE></right>
+  <upOrDown><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>512</LINE></upOrDown>
+  <left><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>536</LINE></left>
+  <moveRight><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>559</LINE></moveRight>
+  <isZero><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>591</LINE></isZero>
+  <CheckWall5><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>576</LINE></CheckWall5>
+  <notLineX5><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>583</LINE></notLineX5>
+  <notDown><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>694</LINE></notDown>
+  <moveLeft><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>596</LINE></moveLeft>
+  <noCarry><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>627</LINE></noCarry>
+  <CheckWall9><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>611</LINE></CheckWall9>
+  <notLineX9><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>618</LINE></notLineX9>
+  <notRight><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>647</LINE></notRight>
+  <notLeft><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>652</LINE></notLeft>
+  <notUp><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>674</LINE></notUp>
+  <ChangeBlockUp><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>668</LINE></ChangeBlockUp>
+  <ChangeBlock><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>689</LINE></ChangeBlock>
+  <Gameover><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>769</LINE></Gameover>
+  <noOnFood><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>753</LINE></noOnFood>
+  <speedTurn><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>721</LINE></speedTurn>
+  <LSFR270new><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>729</LINE></LSFR270new>
+  <generatenew><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>739</LINE></generatenew>
+  <foodnew><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>749</LINE></foodnew>
+  <mazeGame><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>893</LINE></mazeGame>
+  <Send1Row><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>804</LINE></Send1Row>
+  <COLUMNS><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>810</LINE></COLUMNS>
+  <NOPB3><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>815</LINE></NOPB3>
+  <maze><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>822</LINE></maze>
+  <noObstacle><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>828</LINE></noObstacle>
+  <CONTINUE><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>839</LINE></CONTINUE>
+  <ROWS><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>845</LINE></ROWS>
+  <NOONE><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>850</LINE></NOONE>
+  <notRow8><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>856</LINE></notRow8>
+  <time1><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>863</LINE></time1>
+  <time2><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>864</LINE></time2>
+  <startGame><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>928</LINE></startGame>
+  <displayGame><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>932</LINE></displayGame>
+  <blocksloopGame><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>938</LINE></blocksloopGame>
+  <ncGame><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>949</LINE></ncGame>
+  <blockGame><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>953</LINE></blockGame>
+  <turnoffGame><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>958</LINE></turnoffGame>
+  <rowonGame><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>969</LINE></rowonGame>
+  <rowoffGame><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>974</LINE></rowoffGame>
+  <wait1Game><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>984</LINE></wait1Game>
+  <wait2Game><FILE>C:\Users\cypri\Documents\ULB\MA1\Sensors and Microsystem Electronics\MicroController Lab\Project\eMAZEing_run\eMAZEing_run\main.asm</FILE><LINE>985</LINE></wait2Game>
+ </LABELS>
+</ASSEMBLER_INFO>
